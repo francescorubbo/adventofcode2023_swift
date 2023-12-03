@@ -8,3 +8,5 @@
 import Foundation
 
 day1()
+
+day1(doReplaceSpelled: true)
